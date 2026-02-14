@@ -1,3 +1,26 @@
-Filename: data/pages.json
-Content:
-[]
+[
+  {
+    "id": 1,
+    "title": "About Us",
+    "slug": "about",
+    "content": "<h2>Welcome to Our Newspaper</h2><p>This is a student-run publication dedicated to bringing you the latest news and stories from our community.</p><h3>Our Mission</h3><p>To inform, educate, and inspire through quality journalism.</p>",
+    "inMenu": true,
+    "date": "February 15, 2024"
+  },
+  {
+    "id": 2,
+    "title": "Contact Us",
+    "slug": "contact",
+    "content": "<h2>Get in Touch</h2><p>Email: editor@newspaper.com</p><p>Phone: (555) 123-4567</p><p>Address: 123 Campus Drive</p>",
+    "inMenu": true,
+    "date": "February 15, 2024"
+  },
+  {
+    "id": 3,
+    "title": "Submission Guidelines",
+    "slug": "submit",
+    "content": "<h2>Write for Us</h2><p>We welcome article submissions from all students. Please email your articles to submissions@newspaper.com</p>",
+    "inMenu": false,
+    "date": "February 15, 2024"
+  }
+]
