@@ -1,7 +1,7 @@
-Filename: data/categories.json
-Content:
 [
   { "name": "Local", "slug": "local" },
   { "name": "National", "slug": "national" },
-  { "name": "World", "slug": "world" }
+  { "name": "World", "slug": "world" },
+  { "name": "Technology", "slug": "technology" },
+  { "name": "Sports", "slug": "sports" }
 ]
