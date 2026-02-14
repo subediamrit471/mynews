@@ -1,1 +1,15 @@
-
+Filename: data/articles.json
+Content: 
+[
+  {
+    "id": 1,
+    "title": "Welcome",
+    "author": "Editor",
+    "category": "Local",
+    "content": "Hello world",
+    "date": "Feb 15, 2024",
+    "featured": true,
+    "views": 0,
+    "images": []
+  }
+]
