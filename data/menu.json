@@ -1,6 +1,8 @@
-Filename: data/menu.json
-Content:
 [
   { "title": "Home", "url": "home", "order": 1 },
-  { "title": "Local", "url": "local", "order": 2 }
+  { "title": "Local", "url": "local", "order": 2 },
+  { "title": "National", "url": "national", "order": 3 },
+  { "title": "World", "url": "world", "order": 4 },
+  { "title": "Technology", "url": "technology", "order": 5 },
+  { "title": "Sports", "url": "sports", "order": 6 }
 ]
